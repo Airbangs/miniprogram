@@ -1,5 +1,22 @@
 // pages/index/index.js
 Page({
+  /**
+   * 分享
+   */
+  onShareAppMessage() {
+    return {
+      title: '打卡分享给朋友',
+      // path:'three/main/main',
+      // imageUrl: this.logoUrl,
+    };
+  },
+  onShareTimeline() {
+    return {
+      title: '打卡到朋友圈',
+      // path:'three/main/main',
+      // imageUrl: this.logoUrl,
+    };
+  },
 
   /**
    * 页面的初始数据
@@ -40,4 +57,5 @@ Page({
       complete: function(res) {},
     })
   }
+
 })

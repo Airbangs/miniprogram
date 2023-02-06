@@ -31,6 +31,12 @@ App({
   
   globalData: {
     userInfo: null,
-    g_tags: ['书单']
-  }
+    g_tags: ['书单'],
+  },
+
 })
+
+
+
+
+

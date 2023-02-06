@@ -13,7 +13,7 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#333",
-    "navigationBarTitleText": "CPA备考打卡计划必胜",
+    "navigationBarTitleText": "个人提升打卡计划",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
@@ -40,5 +40,8 @@
       }
     ]
   },
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "van-button": "@vant/weapp/dist/button/index"
+  }
 }

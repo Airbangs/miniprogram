@@ -346,3 +346,4 @@ module.exports = {
   getTaskColorClass: getTaskColorClass,
   compareDate: compareDate
 }
+
