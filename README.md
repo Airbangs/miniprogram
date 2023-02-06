@@ -19,4 +19,4 @@
 
 ## 关于作者
 - 个人公众号，随意关注  
-  ![个人公众号](https://dofind.github.io/img/github.io/dofind.jpg)
+  ![个人公众号]()
